@@ -1,0 +1,7 @@
+node_modules/
+.node_modules
+core/config.env
+txt.token
+scenes/check.js
+scenes/dictionary.js
+
